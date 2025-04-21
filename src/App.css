@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(227, 245, 251);
+}
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  height: 100%;
+}
+.main_container{
+  margin: 30px auto;
+  margin-top: 5px;
+}
